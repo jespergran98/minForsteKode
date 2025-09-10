@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav button {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: aquamarine;
+}
+h1 {
+  color: rgb(37, 0, 202);
+  margin: px 0;
+}
+section {
+  background-color: rgb(64, 233, 221);
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+  margin-bottom: 20px;
+}
